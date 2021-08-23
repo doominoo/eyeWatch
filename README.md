@@ -1,4 +1,4 @@
-# eyeWatch
+# Watchapp
 Hi, 
 this is just a simple Youtube Video downloader powered by Tkinter and Ffmpeg huge s/o (www.ffmpeg.org) for Windows-64bit.
 
