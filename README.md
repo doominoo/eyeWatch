@@ -1,6 +1,6 @@
 # eyeWatch
 Hi, 
-this is just a simple Youtube Video downloader powered by Tkinter and Ffmpeg huge s/o (www.ffmpeg.org).
+this is just a simple Youtube Video downloader powered by Tkinter and Ffmpeg huge s/o (www.ffmpeg.org) for Windows-64bit.
 
 # 1. Step
   Install the latest version of python (viz www.python.org/downloads/)
@@ -36,12 +36,14 @@ this is just a simple Youtube Video downloader powered by Tkinter and Ffmpeg hug
   
   Click Ok everywhere.  :)
  # 4. Enjoy
-  Now you are all set up. Just double click the Watchapp.py and this window should pop up also with the python terminal.
+   Now you are all set up. Just double click the Watchapp.py and this window should pop up also with the python terminal.
   
-  ![Capture](https://user-images.githubusercontent.com/85997825/130454602-819d9121-9da1-4e47-874d-922447ba942a.PNG)
+   ![Capture](https://user-images.githubusercontent.com/85997825/130454602-819d9121-9da1-4e47-874d-922447ba942a.PNG)
   
-  ![Capture](https://user-images.githubusercontent.com/85997825/130456010-d134eb5f-ae0e-4f23-aada-3f191347dc4c.PNG)
+   ![Capture](https://user-images.githubusercontent.com/85997825/130456010-d134eb5f-ae0e-4f23-aada-3f191347dc4c.PNG)
 
-  ![Capture](https://user-images.githubusercontent.com/85997825/130455916-d51433cc-2d0c-4d16-aa33-ab1dc7dcc1b2.PNG)
-  
-  and now Enjoy :D
+   ![Capture](https://user-images.githubusercontent.com/85997825/130455916-d51433cc-2d0c-4d16-aa33-ab1dc7dcc1b2.PNG)
+   
+   ![Capture](https://user-images.githubusercontent.com/85997825/130456713-b27da1b7-758c-4677-a084-d74887b1f529.PNG)
+
+   and now Enjoy :D
