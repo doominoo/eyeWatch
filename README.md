@@ -4,9 +4,14 @@ this is just a simple Youtube Video downloader powered by Tkinter and Ffmpeg hug
 
 # 1. Step
   Install the latest version of python (viz www.python.org/downloads/)
+  
   And download ffmpeg (https://github.com/BtbN/FFmpeg-Builds/releases/) choose "ffmpeg-N-103359-g0383ec88a5-win64-gpl.zip" 
 # 2. Download
-  Download the code as .zip file and export it into a folder. Now you need to add the folder "ffmpeg" into your path. If you know how, you can skip the 3rd Step 
+  Download the code as .zip file and export it into a folder. 
+  
+  Now you need to add the folder "ffmpeg" into your path. 
+  
+  If you know how, you can skip the 3rd Step. 
 # 3. Adding to Path  
   Search for System environment variables like you see on the picture
   
@@ -20,8 +25,9 @@ this is just a simple Youtube Video downloader powered by Tkinter and Ffmpeg hug
   ![Capture](https://user-images.githubusercontent.com/85997825/130450099-a83603a2-4f71-4af2-9970-414688d5998b.PNG)
   
   
-  Now doubleclick on "Path"
+  Now doubleclick "Path"
   (I recommend moving ffmpeg folder to your C: drive).
+  
   And add the location of "ffmpeg\bin" to the Path. 
   
   
@@ -30,7 +36,7 @@ this is just a simple Youtube Video downloader powered by Tkinter and Ffmpeg hug
   
   Click Ok everywhere.  :)
  # 4. Enjoy
-  Now you are all set up. Just double click the Watchapp.py and this window should pop up also with the python terminal
+  Now you are all set up. Just double click the Watchapp.py and this window should pop up also with the python terminal.
   
   ![Capture](https://user-images.githubusercontent.com/85997825/130454602-819d9121-9da1-4e47-874d-922447ba942a.PNG)
   
