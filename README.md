@@ -1,6 +1,6 @@
 # Watchapp
 Hi, 
-this is just a simple Youtube Video downloader powered by Tkinter GUI and Ffmpeg huge s/o (www.ffmpeg.org) for Windows-64bit.
+this is just a simple Youtube Video downloader powered by Tkinter GUI and Ffmpeg (s/o www.ffmpeg.org) for Windows-64bit.
 
 # 1. Step
   Install the latest version of python (viz www.python.org/downloads/)
