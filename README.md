@@ -40,4 +40,8 @@ this is just a simple Youtube Video downloader powered by Tkinter and Ffmpeg hug
   
   ![Capture](https://user-images.githubusercontent.com/85997825/130454602-819d9121-9da1-4e47-874d-922447ba942a.PNG)
   
+  ![Capture](https://user-images.githubusercontent.com/85997825/130456010-d134eb5f-ae0e-4f23-aada-3f191347dc4c.PNG)
+
+  ![Capture](https://user-images.githubusercontent.com/85997825/130455916-d51433cc-2d0c-4d16-aa33-ab1dc7dcc1b2.PNG)
+  
   and now Enjoy :D
